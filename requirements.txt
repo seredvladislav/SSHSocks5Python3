@@ -1,0 +1,4 @@
+aiohttp
+psutil
+aiohttp_socks
+asyncssh>=1.17.1
